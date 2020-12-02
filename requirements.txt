@@ -1,0 +1,5 @@
+pytz==2020.4
+redis==3.5.3
+spyne==2.13.16
+waitress==1.4.4
+walrus==0.8.1
